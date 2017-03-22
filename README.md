@@ -2,16 +2,16 @@
 
 A collection of useful shell scripts for automating tasks
 
-to add:
+to add/modify:
 
 
-find largest files in "Desktop" folders
+cron job to run disk usage monitor script
 
-find and delete mp3 files in archive < 5 MB
+find and copy mp3 files < 5 MB to qc folder with prompt/read
 
-CRON job to backup files in "CODE 2017 folder"
+CRON job to backup newer files in "CODE 2017 folder" to archive
 
-? python Twilio ? Temboo SMS 
+
 
 
 
