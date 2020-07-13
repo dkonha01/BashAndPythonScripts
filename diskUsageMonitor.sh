@@ -1,9 +1,6 @@
 
 #!/bin/bash
-# ----------------------------------------------------------------------
-# Linux shell script to watch disk space (should work on other UNIX oses )
-# SEE URL: http://www.cyberciti.biz/tips/shell-script-to-watch-the-disk-space.html
-# set admin email so that you can get email
+
 ADMIN="dkonhauser@gmail.com"
 # set alert level 90% is default
 ALERT=60
