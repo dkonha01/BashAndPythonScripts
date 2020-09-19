@@ -2,7 +2,13 @@
 
 A collection of useful shell scripts for automating tasks
 
-to add/modify:
+TODO
+
+add script to sort mp3 files by bit rate; over 192kbps intoone folder, the rest into another
+
+add script to search log files with parameters defined by command line arguments: date and ip address
+
+
 
 
 cron job to run disk usage monitor script
