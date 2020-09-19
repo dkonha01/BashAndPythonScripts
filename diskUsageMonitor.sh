@@ -13,6 +13,9 @@ do
     echo -e  "Running out of space \"$partition ($usep%)\" on $(hostname) as on $(date)" |
      sendmail $ADMIN
   fi
+  
+# replace sendmail with ???
+
 done
 
 
