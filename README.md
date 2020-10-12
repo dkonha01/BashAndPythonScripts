@@ -8,7 +8,7 @@ largestDirFile.sh will report largest 20 directories including subfolders as wel
 
 xlsx_mofr.py is a python script for finding rows containing a particular record label in millionsofrecords.com excel file
 
-TODO - use RE in xlsx_mofr.py to search for a particular artist
+xlsx_RE.py uses re to search for particular artist in millionsofrecords.com excel file
 
 
 
