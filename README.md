@@ -10,6 +10,8 @@ xlsx_mofr.py is a python script for finding rows containing a particular record 
 
 xlsx_RE.py uses re to search for particular artist in millionsofrecords.com excel file
 
+TODO: network utilities such as netstat, ss, dig
+
 
 
 
