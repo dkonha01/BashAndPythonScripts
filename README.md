@@ -10,9 +10,10 @@ xlsx_mofr.py is a python script for finding rows containing a particular record 
 
 xlsx_RE.py uses re to search for particular artist in millionsofrecords.com excel file
 
-digNS.sh 
+digNS.sh provides an extensive NS record section
 
 TODO: network utilities such as netstat, ss, dig
+
 
 
 
