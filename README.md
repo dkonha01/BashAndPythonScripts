@@ -12,7 +12,11 @@ xlsx_RE.py uses re to search for particular artist in millionsofrecords.com exce
 
 digNS.sh provides an extensive NS record section
 
-TODO: network utilities such as netstat, ss, dig
+ipRoute.sh displays the routing table
+
+ssEst.sh shows only established TCP connections
+
+
 
 
 
