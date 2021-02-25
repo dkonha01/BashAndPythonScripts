@@ -18,6 +18,7 @@ ssEst.sh shows only established TCP connections
 
 ##### lsof -i4 on Mac OS "list open files" only IPv4 network files
 
+##TODO add Wireshark capture and display filters
 
 
 
