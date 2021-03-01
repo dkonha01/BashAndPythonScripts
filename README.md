@@ -18,7 +18,13 @@ ssEst.sh shows only established TCP connections
 
 ##### lsof -i4 on Mac OS "list open files" only IPv4 network files
 
-##TODO add Wireshark capture and display filters
+#### netstat -pt shows active Internet connections with pid and program info
+
+### netstat -r shows Kernel routing table 
+
+## ss-4 shows IPv4 socket connections
+
+# TODO add Wireshark capture and display filters
 
 
 
