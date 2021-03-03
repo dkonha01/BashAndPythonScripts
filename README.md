@@ -16,13 +16,16 @@ ipRoute.sh displays the routing table
 
 ssEst.sh shows only established TCP connections
 
-##### lsof -i4 on Mac OS "list open files" only IPv4 network files
+# "ss-4" shows IPv4 socket connections
 
-#### netstat -pt shows active Internet connections with pid and program info
+# "lsof -i4" on OS X list open files only IPv4 network files
 
-### netstat -r shows Kernel routing table 
+# "netstat -an -Ptcp | grep tcp4" on OS X shows IPv4 sockets
 
-## ss-4 shows IPv4 socket connections
+# "netstat -pt" shows active Internet connections with pid and program info
+
+# "netstat -r" shows Kernel routing table 
+
 
 # TODO add Wireshark capture and display filters
 
