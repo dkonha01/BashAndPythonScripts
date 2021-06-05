@@ -1,3 +1,5 @@
+# hard coded example using openpyxl
+
 from openpyxl import *
 import sys
 import re
