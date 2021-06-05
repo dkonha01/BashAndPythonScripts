@@ -1,5 +1,4 @@
-# Python program to demonstrate
-# command line arguments
+# Python program to demonstrate command line arguments
  
  
 import sys
